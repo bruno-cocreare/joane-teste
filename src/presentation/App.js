@@ -19,6 +19,7 @@ const App = () => {
         <Header />
         <Routes>
           <Route exact path="/" element={<Home />} />
+          <Route exact path="joane-teste" element={<Home />} />
           <Route path="sinopse" element={<Synopis />} />
         </Routes>
         <Footer></Footer>
