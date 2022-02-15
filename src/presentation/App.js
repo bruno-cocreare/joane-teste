@@ -17,9 +17,9 @@ const App = () => {
     <Provider store={store}>
       <div className="App">
         <Header />
-        <Routes basename="joane-teste">
-          <Route path="/" element={<Home />} />
-          <Route path="sinopse" element={<Synopis />} />
+        <Routes>
+          <Route path="/joane-teste" element={<Home />} />
+          <Route path="/joane-testesinopse" element={<Synopis />} />
         </Routes>
         <Footer></Footer>
       </div>
