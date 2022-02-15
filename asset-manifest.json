@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/joane-teste/static/css/main.a794e25d.css",
+    "main.js": "/joane-teste/static/js/main.fc7f196e.js",
+    "index.html": "/joane-teste/index.html",
+    "main.a794e25d.css.map": "/joane-teste/static/css/main.a794e25d.css.map",
+    "main.fc7f196e.js.map": "/joane-teste/static/js/main.fc7f196e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a794e25d.css",
+    "static/js/main.fc7f196e.js"
+  ]
+}
