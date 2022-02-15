@@ -38,7 +38,7 @@ const ListMovies = ({
       {movies?.results?.map((item) => (
         <div>
           <S.MovieCard
-            to="/sinopse"
+            to="/joane-teste/sinopse"
             onClick={() => handleMovieClick(item.id)}
           >
             <S.PosterCard src={`https://image.tmdb.org/t/p/w200/${item.poster_path}`} alt='Ilustrações capa de filmes' />
