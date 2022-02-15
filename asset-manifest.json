@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/joane-teste/static/css/main.a794e25d.css",
-    "main.js": "/joane-teste/static/js/main.5c9243d2.js",
+    "main.js": "/joane-teste/static/js/main.f95e0930.js",
     "index.html": "/joane-teste/index.html",
     "main.a794e25d.css.map": "/joane-teste/static/css/main.a794e25d.css.map",
-    "main.5c9243d2.js.map": "/joane-teste/static/js/main.5c9243d2.js.map"
+    "main.f95e0930.js.map": "/joane-teste/static/js/main.f95e0930.js.map"
   },
   "entrypoints": [
     "static/css/main.a794e25d.css",
-    "static/js/main.5c9243d2.js"
+    "static/js/main.f95e0930.js"
   ]
 }
